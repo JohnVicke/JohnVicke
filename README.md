@@ -1,5 +1,11 @@
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnVicke&show_icons=true&theme=gruvbox&count_private=true&hide=contribs&hide_border=true" />
-</a>
-</p>
+
+# heeeeyaaa, I'm Viktor 👋
+
+
+I'm a full stack developer who loves action sports, powerlifting and coding. (and nvim btw)
+
+👩‍💻 Currently working in fullstack web development (mostly Next)
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://malmedal.dev/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viktor-malmedal)
+
